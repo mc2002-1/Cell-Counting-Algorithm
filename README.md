@@ -6,3 +6,12 @@ The algorithm evaluates its performance by comparing detected cells with manuall
 Developed in MATLAB with the help of the Image Processing Toolbox, this solution is designed to be adaptable across different microscopy datasets. Its efficiency allows for rapid analysis of large sets of images, making it a valuable tool in biomedical research, particularly in studies involving cell proliferation, drug testing, or disease progression.
 
 Note: Make sure the Test_set is in the same folder as the code you are running.
+                                                                                                                                                                                                                                                                                                                                                                 
+
+
+![Imagem-matlab2](https://github.com/user-attachments/assets/b819a0d7-7959-40e2-bab1-84691e6936be)
+
+
+                                                                                                                                                                                                                                                                                                                                                                     
+
+![Imagem-matlab](https://github.com/user-attachments/assets/969dde27-d20d-4d9b-9034-24549af76905)
